@@ -20,10 +20,15 @@
 			<artifactId>activemq-camel</artifactId>
 			<version>5.10.0</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
+			<version>3.2.4.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jms</artifactId>
 			<version>3.2.4.RELEASE</version>
 		</dependency>
 
