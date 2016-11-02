@@ -51,7 +51,7 @@ class MyCamelJettyBuilder extends RouteBuilder {
 		    String data = message.getBody(String.class);
 		    System.out.println("Data  =" + data.toString());
 		}
-	    }
+	    } 
 	});
 
     }
